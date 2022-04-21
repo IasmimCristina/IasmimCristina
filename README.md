@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @IasmimCristina
 - 👀 Estou interessada em desenvolvimento Fullstack, DevOps, métodos ágeis, projetos práticos e colaborar com a comunidade de código. 
-- 🌱 Estou atualmente estudando Java, JavaScript AWS, Azure e HTML5 com CSS3.
+- 🌱 Estou atualmente estudando Java, JavaScript, Cloud Computing AWS, Cloud Computing, Azure e HTML5 com CSS3.
 - 💞️ Pretendo colaborar ao criar projetos e programas. 
 
 
