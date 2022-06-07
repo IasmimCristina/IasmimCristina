@@ -1,7 +1,7 @@
- #  :earth_americas:Olá mundo!:earth_americas: Bem vindos, sou Iasmim Cristina!
+ #  :earth_americas:Olá mundo!:earth_americas: Bem vindos, sou Iasmim Cristina! ✨ ✨ ✨ ✨ ✨ ✨ 
  ***
  * __:sunrise_over_mountains: Estou interessada em desenvolvimento Fullstack com Java, JavaScript, Python e PHP, além de DevOps, métodos ágeis, projetos práticos e colaborar com a comunidade de desenvolvedores.__ 
- * __:stars: Estou atualmente estudando Java, JavaScript, Cloud Computing AWS, Cloud Computing, Azure e HTML5 com CSS3.__
+ * __:stars: Estou atualmente estudando Java, JavaScript, Python, Cloud Computing AWS, Cloud Computing Azure e HTML5 com CSS3.__
  * __💞️ Pretendo colaborar ao criar projetos e programas.__
  ***
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IasmimCristina&show_icons=true&theme=monokai) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IasmimCristina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
