@@ -4,7 +4,10 @@
  * __:stars: Estou atualmente estudando Java, JavaScript, Python, Cloud Computing AWS, Cloud Computing Azure e HTML5 com CSS3.__
  * __💞️ Pretendo colaborar ao criar projetos e programas.__
  ***
+   <div align="center"> 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IasmimCristina&show_icons=true&theme=monokai) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IasmimCristina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
+ 
   ***
   <div align="center"> 
   
