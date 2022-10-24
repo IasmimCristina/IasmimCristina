@@ -6,7 +6,7 @@
  ***
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IasmimCristina&show_icons=true&theme=monokai) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IasmimCristina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   ***
-  <div> 
+  <div style = "align: center"> 
   
  
   <a href = "mailto:iaasmimcristinaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
