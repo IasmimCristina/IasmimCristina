@@ -12,7 +12,7 @@
 
 * 🧠 Estou aprendendo desenvolvimento HTML/Sass com React Js...
 
-* 📫 Como entrar em contato comigo: iaasmimcristinaa@gmail.com || https://www.linkedin.com/in/ias-cristina 
+* 📫 Como entrar em contato comigo:  <a href ="mailto:iaasmimcristinaa@gmail.com">E-mail</a>   || <a href="https://www.linkedin.com/in/ias-cristina" target="_blank">Linkedin</a> 
 
 * 😄 Pronomes/pronouns: ela/dela she/her...
 
