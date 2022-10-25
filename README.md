@@ -6,6 +6,15 @@
 - _Atualmente curso Análise e Desnevolvimento de Sistemas na UNIFACS..._ ☀️
 - _Eu me interesso por metodologias ágeis, JS/React e TypeScript..._ 💨 
 
+## 🛠 Habilidades ⭐
+
+* Desenvolvimento Front End
+* Aplicação da metodologia ágil
+* Uso das tecnologias: JS/TypeScript, Sass, Html/CSS e ReactJs
+* Figma/Canva
+
+### Nível de habilidade 🖥️
+
 ***
 ## Outros... 👀 
 * 👩‍💻 Faço estágio atualmente na Empresa Compasso UOL...
