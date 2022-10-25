@@ -1,10 +1,21 @@
----
+***
 <h1 align="center">❤️✨Sou Iasmim Cristina!✨💙</h1> 
-
+***
 ## ❤️ Sobre mim 💙
 - _Eu sou uma pessoa que estuda desenvolvimento Front End..._ 🖥️
 - _Atualmente curso Análise e Desnevolvimento de Sistemas na UNIFACS..._ ☀️
 - _Eu me interesso por metodologias ágeis, JS/React e TypeScript..._ 💨 
+
+***
+## Outros... 👀 
+* 👩‍💻 Faço estágio atualmente na Empresa Compasso UOL...
+
+* 🧠 Estou aprendendo desenvolvimento HTML/Sass com React Js...
+
+* 📫 Como entrar em contato comigo: iaasmimcristinaa@gmail.com || https://www.linkedin.com/in/ias-cristina 
+
+* 😄 Pronomes/pronouns: ela/dela she/her...
+
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IasmimCristina&show_icons=true&theme=monokai) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IasmimCristina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
