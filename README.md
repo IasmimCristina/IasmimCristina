@@ -1,6 +1,6 @@
 ---
 <h1 align="center">❤️✨Sou Iasmim Cristina!✨💙</h1> 
----
+
 ## ❤️ Sobre mim 💙
 - _Eu sou uma pessoa que estuda desenvolvimento Front End..._ 🖥️
 - _Atualmente curso Análise e Desnevolvimento de Sistemas na UNIFACS..._ ☀️
