@@ -1,5 +1,6 @@
- #  :earth_americas:Olá mundo!:earth_americas: Bem vindos, sou Iasmim Cristina! ✨ ✨ ✨ 
- ***
+---
+<h1 align="center">❤️✨Sou Iasmim Cristina!✨💙</h1> 
+---
  * __:sunrise_over_mountains: Estou interessada em desenvolvimento Fullstack com Java, JavaScript, Python e PHP, além de DevOps, métodos ágeis, projetos práticos e colaborar com a comunidade de desenvolvedores.__ 
  * __:stars: Estou atualmente estudando Java, JavaScript, Python, Cloud Computing AWS, Cloud Computing Azure e HTML5 com CSS3.__
  * __💞️ Pretendo colaborar ao criar projetos e programas.__
