@@ -1,5 +1,4 @@
 ![banners-gihub-olamundo](https://user-images.githubusercontent.com/100351576/198038233-f744dc6c-64bf-4d36-9a88-0ad4ef955d66.gif)
-![banners-gihuola-mundo-mouse](https://user-images.githubusercontent.com/100351576/198053683-97b5c9c9-3cd6-4356-bd2d-bfb4a123bf61.gif)
 
 ***
 ![banners-gihub-inicial](https://user-images.githubusercontent.com/100351576/198038303-0e7c569d-10c3-4c4b-b083-40e30a4770e6.gif)
