@@ -38,6 +38,7 @@
 
 * 😄 Pronomes/pronouns: ela/dela she/her...
 
+---
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IasmimCristina&show_icons=true&theme=monokai) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IasmimCristina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
