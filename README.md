@@ -5,7 +5,7 @@
 
 <h1 align="center">❤️✨Sou Iasmim Cristina!✨💙</h1> 
 
-## ❤️ Sobre mim 💙
+<h2 align="center"> ❤️ Sobre mim 💙 <h2>
 - _Eu sou uma pessoa que estuda desenvolvimento Front End..._ 🖥️
 - _Atualmente curso Análise e Desnevolvimento de Sistemas na UNIFACS..._ ☀️
 - _Eu me interesso por metodologias ágeis, JS/React e TypeScript..._ 💨 
@@ -19,7 +19,7 @@
 * Uso das tecnologias: JS/TypeScript, Sass, Html/CSS e ReactJs
 * Figma/Canva
 
-### Nível de habilidade 🖥️
+<h2 align="center">Nível de habilidade 🖥️</h2>
 
 ![banners-gihub-habilidades2](https://user-images.githubusercontent.com/100351576/198038424-030400e5-4577-44f9-a727-4ce96690e452.gif)
 ![banners-gihub-habilidades3](https://user-images.githubusercontent.com/100351576/198038431-797de205-fd17-4aff-adb6-4dab29152a68.gif)
@@ -27,7 +27,7 @@
 
 
 ***
-## Outros... 👀 
+<h2 align="center"> Outros... 👀 <h2>
 * 👩‍💻 Faço estágio atualmente na Empresa Compasso UOL...
 
 * 🧠 Estou aprendendo desenvolvimento HTML/Sass com React Js...
