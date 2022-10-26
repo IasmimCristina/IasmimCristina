@@ -18,7 +18,9 @@
 * Uso das tecnologias: JS/TypeScript, Sass, Html/CSS e ReactJs. 🖥️
 * Canva. 🖌️
 
-![banners-gihub-habilidades](https://user-images.githubusercontent.com/100351576/198038394-0723a314-1b23-4b26-9b4d-4403ce17c519.gif)
+  ![banners-gihubtecnologias-icons](https://user-images.githubusercontent.com/100351576/198052702-27c6c94e-e6e8-4cdb-893f-2156df3bdf99.gif)
+
+  
 
 <h2 align="center">Nível de habilidade 🖥️</h2>
 
