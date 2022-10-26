@@ -1,7 +1,8 @@
-![banners-gihub](https://user-images.githubusercontent.com/100351576/198038138-3ca0bc65-a655-4009-8765-61f1a6431f68.gif)
-
+![banners-gihub-olamundo](https://user-images.githubusercontent.com/100351576/198038233-f744dc6c-64bf-4d36-9a88-0ad4ef955d66.gif)
 
 ***
+![banners-gihub-inicial](https://user-images.githubusercontent.com/100351576/198038303-0e7c569d-10c3-4c4b-b083-40e30a4770e6.gif)
+
 <h1 align="center">❤️✨Sou Iasmim Cristina!✨💙</h1> 
 
 ## ❤️ Sobre mim 💙
@@ -11,12 +12,19 @@
 
 ## 🛠 Habilidades ⭐
 
+![banners-gihub-habilidades](https://user-images.githubusercontent.com/100351576/198038394-0723a314-1b23-4b26-9b4d-4403ce17c519.gif)
+
 * Desenvolvimento Front End
 * Aplicação da metodologia ágil
 * Uso das tecnologias: JS/TypeScript, Sass, Html/CSS e ReactJs
 * Figma/Canva
 
 ### Nível de habilidade 🖥️
+
+![banners-gihub-habilidades2](https://user-images.githubusercontent.com/100351576/198038424-030400e5-4577-44f9-a727-4ce96690e452.gif)
+![banners-gihub-habilidades3](https://user-images.githubusercontent.com/100351576/198038431-797de205-fd17-4aff-adb6-4dab29152a68.gif)
+![banners-gihub-habilidades4](https://user-images.githubusercontent.com/100351576/198038439-867baebd-67f5-4a74-b519-4d8e8a5b43e6.gif)
+
 
 ***
 ## Outros... 👀 
@@ -43,7 +51,8 @@
 
  
 
- 
+ ![banners-gihub-final](https://user-images.githubusercontent.com/100351576/198038339-d9340ff7-a650-4065-ac79-4a22b4f64f2b.gif)
+
 
 
 
