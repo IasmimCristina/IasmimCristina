@@ -1,11 +1,11 @@
 ![banners-gihub-olamundo](https://user-images.githubusercontent.com/100351576/198038233-f744dc6c-64bf-4d36-9a88-0ad4ef955d66.gif)
 
 ***
-![banners-gihub-inicial](https://user-images.githubusercontent.com/100351576/198038303-0e7c569d-10c3-4c4b-b083-40e30a4770e6.gif)
 
 <h1 align="center">❤️✨Sou Iasmim Cristina!✨💙</h1> 
 
 <h2 align="center"> ❤️ Sobre mim 💙 <h2>
+  ![banners-gihub-inicial](https://user-images.githubusercontent.com/100351576/198038303-0e7c569d-10c3-4c4b-b083-40e30a4770e6.gif)
   
 - _Eu sou uma pessoa que estuda desenvolvimento Front End..._ 🖥️
 - _Atualmente curso Análise e Desenvolvimento de Sistemas na UNIFACS..._ ☀️
