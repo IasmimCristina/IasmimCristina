@@ -5,6 +5,7 @@
 <h1 align="center">❤️✨Sou Iasmim Cristina!✨💙</h1> 
 
 <h2 align="center"> ❤️ Sobre mim 💙 <h2>
+  
   ![banners-gihub-inicial](https://user-images.githubusercontent.com/100351576/198038303-0e7c569d-10c3-4c4b-b083-40e30a4770e6.gif)
   
 - _Eu sou uma pessoa que estuda desenvolvimento Front End..._ 🖥️
