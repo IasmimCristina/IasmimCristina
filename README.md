@@ -13,12 +13,12 @@
 
 ## 🛠 Habilidades ⭐
 
-![banners-gihub-habilidades](https://user-images.githubusercontent.com/100351576/198038394-0723a314-1b23-4b26-9b4d-4403ce17c519.gif)
+* Desenvolvimento Front End. 👥
+* Aplicação da metodologia ágil. 💨
+* Uso das tecnologias: JS/TypeScript, Sass, Html/CSS e ReactJs. 🖥️
+* Canva. 🖌️
 
-* Desenvolvimento Front End
-* Aplicação da metodologia ágil
-* Uso das tecnologias: JS/TypeScript, Sass, Html/CSS e ReactJs
-* Figma/Canva
+![banners-gihub-habilidades](https://user-images.githubusercontent.com/100351576/198038394-0723a314-1b23-4b26-9b4d-4403ce17c519.gif)
 
 <h2 align="center">Nível de habilidade 🖥️</h2>
 
