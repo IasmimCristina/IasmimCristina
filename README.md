@@ -29,6 +29,7 @@
 
 ***
 <h2 align="center"> Outros... 👀 <h2>
+  
 * 👩‍💻 Faço estágio atualmente na Empresa Compasso UOL...
 
 * 🧠 Estou aprendendo desenvolvimento HTML/Sass com React Js...
