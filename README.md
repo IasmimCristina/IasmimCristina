@@ -19,7 +19,7 @@
 * Uso das tecnologias: JS/TypeScript, Sass, Html/CSS e ReactJs. 🖥️
 * Canva. 🖌️
 
-  ![banners-gihubtecnologias-icons](https://user-images.githubusercontent.com/100351576/198052702-27c6c94e-e6e8-4cdb-893f-2156df3bdf99.gif)
+  ![banners-gihubtecnologias](https://user-images.githubusercontent.com/100351576/213480902-6b071a84-331b-4c9b-98cc-2f54781dba4b.gif)
 
   
 
@@ -27,7 +27,7 @@
 
 ![banners-gihub-habilidades2](https://user-images.githubusercontent.com/100351576/198038424-030400e5-4577-44f9-a727-4ce96690e452.gif)
 ![banners-gihub-habilidades3](https://user-images.githubusercontent.com/100351576/198038431-797de205-fd17-4aff-adb6-4dab29152a68.gif)
-![banners-gihub-habilidades4](https://user-images.githubusercontent.com/100351576/198038439-867baebd-67f5-4a74-b519-4d8e8a5b43e6.gif)
+![banners-gihubjavaReact](https://user-images.githubusercontent.com/100351576/213481095-059173e3-5903-45b7-8674-7b37cd52957a.gif)
 
 
 ***
@@ -43,7 +43,7 @@
 
 ---
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IasmimCristina&show_icons=true&theme=monokai) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IasmimCristina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
  
   ***
