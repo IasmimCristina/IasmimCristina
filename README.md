@@ -18,16 +18,27 @@
 * Aplicação da metodologia ágil. 💨
 * Uso das tecnologias: JS/TypeScript, Sass, Html/CSS e ReactJs. 🖥️
 * Canva. 🖌️
+  
+ 
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IasmimCristina&show_icons=true&theme=maroongold)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IasmimCristina&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  
 
+  
   ![banners-gihubtecnologias](https://user-images.githubusercontent.com/100351576/213480902-6b071a84-331b-4c9b-98cc-2f54781dba4b.gif)
+
 
   
 
+
+
 <h2 align="center">Nível de habilidade 🖥️</h2>
 
-![banners-gihub-habilidades2](https://user-images.githubusercontent.com/100351576/198038424-030400e5-4577-44f9-a727-4ce96690e452.gif)
-![banners-gihub-habilidades3](https://user-images.githubusercontent.com/100351576/198038431-797de205-fd17-4aff-adb6-4dab29152a68.gif)
-![banners-gihubjavaReact](https://user-images.githubusercontent.com/100351576/213481095-059173e3-5903-45b7-8674-7b37cd52957a.gif)
+![banner-habilidades (3)](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/6be971cb-8bfd-4915-8e38-b1d0701ed286)
+![banner-habilidades (2)](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/cae01b6d-c313-424d-a912-4432cd30a369)
+![banner-habilidades](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/e37b3735-beaa-49d0-a5b2-98f882e73dc5)
+
 
 
 ***
