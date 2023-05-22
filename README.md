@@ -14,21 +14,36 @@
 
 ## 🛠 Habilidades ⭐
 
+   
+  
+
+   
+
+  
 * Desenvolvimento Front End. 👥
 * Aplicação da metodologia ágil. 💨
 * Uso das tecnologias: JS/TypeScript, Sass, Html/CSS e ReactJs. 🖥️
 * Canva. 🖌️
-  
- 
+
+
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IasmimCristina&show_icons=true&theme=maroongold)
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IasmimCristina&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  
+
 
   
   ![banners-gihubtecnologias](https://user-images.githubusercontent.com/100351576/213480902-6b071a84-331b-4c9b-98cc-2f54781dba4b.gif)
 
 
+  <div align="center">
+    
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IasmimCristina&layout=donut&theme=moltack" />
+</a> 
+   <div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IasmimCristina&show_icons=true&theme=moltack" />
+</a>
+  </div> 
+  </div>
   
 
 
@@ -42,6 +57,10 @@
 
 
 ***
+  
+
+
+  
 <h2 align="center"> Outros... 👀 <h2>
   
 * 👩‍💻 Estou atualmente procurando emprego!
