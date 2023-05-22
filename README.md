@@ -50,9 +50,15 @@
 
 <h2 align="center">Nível de habilidade 🖥️</h2>
 
-![banner-habilidades (3)](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/6be971cb-8bfd-4915-8e38-b1d0701ed286)
-![banner-habilidades (2)](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/cae01b6d-c313-424d-a912-4432cd30a369)
-![banner-habilidades](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/e37b3735-beaa-49d0-a5b2-98f882e73dc5)
+  
+![banners-gihub (1)](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/0dfbcf45-2cb7-4740-b2c5-c70bfbd3ae50)
+  
+![banners-gihub (2)](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/b1f900f9-9978-4a34-bf6c-c37a6c7d53b6)
+  
+![banners-gihub](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/48d13b01-dc45-4d3c-b82f-d0ef9baaf614)
+
+
+
 
 
 
