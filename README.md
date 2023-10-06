@@ -66,17 +66,15 @@
 
 - 😄 Pronomes/pronouns: ela/dela, she/her...
 
-### 📫 Como entrar em contato comigo:  <a href ="mailto:iaasmimcristinaa@gmail.com">E-mail</a>   || <a href="https://www.linkedin.com/in/ias-cristina" target="_blank">Linkedin</a> 
 
-
-
----
 
  
 
  
   ***
   
+
+
   <h2 align= "center"> 🔗 Links </h2>
   
   <div align="center">   
@@ -85,6 +83,8 @@
 </div>
 
  
+📫 Como entrar em contato comigo:  <a href ="mailto:iaasmimcristinaa@gmail.com">E-mail</a>   || <a href="https://www.linkedin.com/in/ias-cristina" target="_blank">Linkedin</a> 
+
 
  ![banners-gihub-final](https://user-images.githubusercontent.com/100351576/198038339-d9340ff7-a650-4065-ac79-4a22b4f64f2b.gif)
 
