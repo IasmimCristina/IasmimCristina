@@ -9,7 +9,7 @@
   ![banners-gihub-inicial](https://user-images.githubusercontent.com/100351576/198038303-0e7c569d-10c3-4c4b-b083-40e30a4770e6.gif)
   
 - _Eu sou uma pessoa que estuda desenvolvimento Front End..._ 🖥️
-- _Atualmente curso Análise e Desenvolvimento de Sistemas na UNIFACS..._ ☀️
+- _Atualmente sou Junior Front End Developer..._ ☀️
 - _Eu me interesso por metodologias ágeis, JS/React e TypeScript..._ 💨 
 
 ## 🛠 Habilidades ⭐
