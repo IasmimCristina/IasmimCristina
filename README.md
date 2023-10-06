@@ -60,13 +60,15 @@
   
 <h2 align="center"> Outros... 👀 <h2>
   
-* 👩‍💻 Estou atualmente procurando emprego!
+- 👩‍💻 Estou atualmente procurando emprego!
 
-* 🧠 Estou aprendendo desenvolvimento Next.JS com React JS...
+- 🧠 Estou aprendendo desenvolvimento Next.JS com React JS...
 
-* 📫 Como entrar em contato comigo:  <a href ="mailto:iaasmimcristinaa@gmail.com">E-mail</a>   || <a href="https://www.linkedin.com/in/ias-cristina" target="_blank">Linkedin</a> 
+- 😄 Pronomes/pronouns: ela/dela, she/her...
 
-* 😄 Pronomes/pronouns: ela/dela, she/her...
+### 📫 Como entrar em contato comigo:  <a href ="mailto:iaasmimcristinaa@gmail.com">E-mail</a>   || <a href="https://www.linkedin.com/in/ias-cristina" target="_blank">Linkedin</a> 
+
+
 
 ---
 
