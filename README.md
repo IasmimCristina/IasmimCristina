@@ -14,20 +14,11 @@
 
 ## 🛠 Habilidades ⭐
 
-   
-  
-
-   
-
   
 * Desenvolvimento Front End. 👥
 * Aplicação da metodologia ágil. 💨
 * Uso das tecnologias: JS/TypeScript, Sass, Html/CSS e ReactJs. 🖥️
 * Canva. 🖌️
-
-
-    
-
 
   
   ![banners-gihubtecnologias](https://user-images.githubusercontent.com/100351576/213480902-6b071a84-331b-4c9b-98cc-2f54781dba4b.gif)
@@ -71,7 +62,7 @@
   
 * 👩‍💻 Estou atualmente procurando emprego!
 
-* 🧠 Estou aprendendo desenvolvimento HTML/Sass com React Js...
+* 🧠 Estou aprendendo desenvolvimento Next.JS com React JS...
 
 * 📫 Como entrar em contato comigo:  <a href ="mailto:iaasmimcristinaa@gmail.com">E-mail</a>   || <a href="https://www.linkedin.com/in/ias-cristina" target="_blank">Linkedin</a> 
 
