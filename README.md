@@ -10,7 +10,7 @@
   
 - _Eu sou uma pessoa que estuda desenvolvimento Front End..._ 🖥️
 - _Atualmente sou Junior Front End Developer..._ ☀️
-- _Eu me interesso por metodologias ágeis, JS/React e TypeScript..._ 💨 
+- _Eu me interesso por metodologias ágeis, JS/React, NextJS e TypeScript..._ 💨 
 
 ## 🛠 Habilidades ⭐
 
