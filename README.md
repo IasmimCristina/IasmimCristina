@@ -1,16 +1,25 @@
-![banners-gihub-olamundo](https://user-images.githubusercontent.com/100351576/198038233-f744dc6c-64bf-4d36-9a88-0ad4ef955d66.gif)
+
+
+![banners-ola-mundo](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/3a7d00da-aa18-4b03-9349-88da3edc1cae)
+
+
+
 
 ***
 
-<h1 align="center">❤️✨Sou Iasmim Cristina!✨💙</h1> 
+<h1 align="center">✨Sou Iasmim Cristina!✨</h1> 
+
+![banners-gihub-inicial](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/3f7430cc-e889-43d5-83e1-b25870a0b0bc)
+
 
 <h2 align="center"> ❤️ Sobre mim 💙 <h2>
   
-  ![banners-gihub-inicial](https://user-images.githubusercontent.com/100351576/198038303-0e7c569d-10c3-4c4b-b083-40e30a4770e6.gif)
+
+
   
 - _Eu sou uma pessoa que estuda desenvolvimento Front End..._ 🖥️
 - _Atualmente sou Junior Front End Developer..._ ☀️
-- _Eu me interesso por metodologias ágeis, JS/React, NextJS e TypeScript..._ 💨 
+- _Eu me interesso por metodologias ágeis, JS/React, Técnicas SEO, TailwindCss, NodeJs, NextJS e TypeScript..._ 💨 
 
 ## 🛠 Habilidades ⭐
 
@@ -21,7 +30,7 @@
 * Canva. 🖌️
 
   
-  ![banners-gihubtecnologias](https://user-images.githubusercontent.com/100351576/213480902-6b071a84-331b-4c9b-98cc-2f54781dba4b.gif)
+![banners-technologies](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/0e75bd50-ea3d-4028-95fe-5ce252f3e1c6)
 
 
   <div align="center">
@@ -42,14 +51,12 @@
 <h2 align="center">Nível de habilidade 🖥️</h2>
 
   
-![banners-gihub (1)](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/0dfbcf45-2cb7-4740-b2c5-c70bfbd3ae50)
-  
-![banners-gihub (2)](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/b1f900f9-9978-4a34-bf6c-c37a6c7d53b6)
-  
-![banners-gihub](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/48d13b01-dc45-4d3c-b82f-d0ef9baaf614)
+![banners-gihub-react-next](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/ef0af2d9-b024-40ad-a30c-fca21ce10dd3)
+
+![banners-gihub-js-ts](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/3899ce86-f18a-4f1a-af1b-c2d695eb420d)
 
 
-
+![banners-gihub-sass-html](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/e8a47f37-e22a-46ac-bdea-dea63371e2cc)
 
 
 
