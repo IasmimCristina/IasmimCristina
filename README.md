@@ -7,27 +7,26 @@
 
 ***
 
-<h1 align="center">✨Sou Iasmim Cristina!✨</h1> 
+<h1 align="center">✨I'm Iasmim Cristina!✨</h1>
+
 
 ![banners-gihub-inicial](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/3f7430cc-e889-43d5-83e1-b25870a0b0bc)
 
 
-<h2 align="center"> ❤️ Sobre mim 💙 <h2>
-  
-
+<h2 align="center"> ❤️ About Me 💙 <h2>
 
   
-- _Eu sou uma pessoa que estuda desenvolvimento Front End..._ 🖥️
-- _Atualmente sou Junior Front End Developer..._ ☀️
-- _Eu me interesso por metodologias ágeis, JS/React, Técnicas SEO, TailwindCss, NodeJs, NextJS e TypeScript..._ 💨 
+- I am someone who studies Front End development... 🖥️
+- Currently, I am a Junior Front End Developer... ☀️
+- I am interested in agile methodologies, JS/React, SEO techniques, TailwindCss, NodeJs, NextJS, and TypeScript... 💨
 
-## 🛠 Habilidades ⭐
+## 🛠 Skills ⭐
 
-  
-* Desenvolvimento Front End. 👥
-* Aplicação da metodologia ágil. 💨
-* Uso das tecnologias: JS/TypeScript, Sass, Html/CSS e ReactJs. 🖥️
-* Canva. 🖌️
+
+- Front End Development. 👥
+- Application of agile methodology. 💨
+- Use of technologies: JS/TypeScript, Sass, Html/CSS, and ReactJs. 🖥️
+- Canva. 🖌️
 
   
 ![banners-technologies](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/0e75bd50-ea3d-4028-95fe-5ce252f3e1c6)
@@ -48,7 +47,7 @@
 
 
 
-<h2 align="center">Nível de habilidade 🖥️</h2>
+<h2 align="center">Skill Level 🖥️</h2>
 
   
 ![banners-gihub-react-next](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/ef0af2d9-b024-40ad-a30c-fca21ce10dd3)
@@ -61,17 +60,16 @@
 
 
 ***
-  
-
 
   
-<h2 align="center"> Outros... 👀 <h2>
-  
-- 👩‍💻 Estou atualmente procurando emprego!
 
-- 🧠 Estou aprendendo desenvolvimento Next.JS com React JS...
+<h2 align="center"> Other... 👀 <h2>
 
-- 😄 Pronomes/pronouns: ela/dela, she/her...
+- 👩‍💻 I am currently seeking employment!
+
+- 🧠 I am learning Next.JS development with React JS...
+
+- 😄 Pronouns: she/her...
 
 
 
@@ -90,7 +88,7 @@
 </div>
 
  
-📫 Como entrar em contato comigo:  <a href ="mailto:iaasmimcristinaa@gmail.com">E-mail</a>   || <a href="https://www.linkedin.com/in/ias-cristina" target="_blank">Linkedin</a> 
+📫 How to contact me: <a href ="mailto:iaasmimcristinaa@gmail.com">Email</a>   || <a href="https://www.linkedin.com/in/ias-cristina" target="_blank">Linkedin</a> 
 
 
  ![banners-gihub-final](https://user-images.githubusercontent.com/100351576/198038339-d9340ff7-a650-4065-ac79-4a22b4f64f2b.gif)
