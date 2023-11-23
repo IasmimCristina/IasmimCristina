@@ -13,26 +13,27 @@
 ![banners-gihub-inicial](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/3f7430cc-e889-43d5-83e1-b25870a0b0bc)
 
 
-<h2 align="center"> ❤️ About Me 💙 <h2>
+<h2 align="center"> ❤️ About Me 💙 </h2>
   
-- I am someone who studies Front End development... 🖥️
-- Currently, I am a Junior Front End Developer... ☀️
-- I am interested in agile methodologies, JS/React, SEO techniques, TailwindCss, NodeJs, NextJS, and TypeScript... 💨
+- I'm passionate about Front End development and continuously learning and growing in this field. 🖥️
+- Currently, I hold a role as a Junior Front End Developer, where I'm honing my skills and gaining hands-on experience. ☀️
+- My interests revolve around agile methodologies, JS/React, SEO techniques, TailwindCss, NodeJs, NextJS, and TypeScript. 💨
 
-<h2 align="center"> Professional Experience 🚀 <h2>
+---
+
+<h3 align="center"> Professional Experience 🚀 </h3>
 
 #### Compasso UOL — August to December 2022
-- 🕒 4 months of study internship using SCRUM methodology and individual project development in React TS.
+- 🕒 Engaged in a 4-month study internship, utilizing SCRUM methodology for project development in React TS.
 
 #### Admint — August to October 2023
-- 🕒 2 months as a Junior Frontend Developer.
-- 👨‍💻 Utilized Framework7 and JavaScript to streamline sales, manage clients, and generate invoices.
-- 👥 Worked within a team of 5 people.
+- 🕒 Contributed as a Junior Frontend Developer for 2 months, leveraging Framework7 and JavaScript to optimize sales, client management, and invoice generation.
+- 👥 Collaborated within a team of 5 individuals.
 
+---
 
-
-### Technologies I Work With
-
+<h3 align="center"> Technologies I've Recently Worked With </h3>
+ 
 <p align="left">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -49,11 +50,11 @@
 
 ## 🛠 Skills ⭐
 
+- Experience in Front End Development with React and NextJs. 👥
+- Experience in applying agile methodologies. 💨
+- Skilled in using technologies like JS/TypeScript, Sass, HTML/CSS, and ReactJs. 🖥️
+- Proficient in Canva for graphic designing. 🖌️
 
-- Front End Development. 👥
-- Application of agile methodology. 💨
-- Use of technologies: JS/TypeScript, Sass, Html/CSS, and ReactJs. 🖥️
-- Canva. 🖌️
 
   
 ![banners-technologies](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/0e75bd50-ea3d-4028-95fe-5ce252f3e1c6)
@@ -88,19 +89,11 @@
 
 ***
 
-  
+<h2 align="center"> Other... 👀 </h2>
 
-<h2 align="center"> Other... 👀 <h2>
-
-- 👩‍💻 I am currently seeking employment!
-
-- 🧠 I am learning Next.JS development with React JS...
-
+- 👩‍💻 Currently seeking new job opportunities!
+- 🧠 Engaged in learning Next.JS development with React JS...
 - 😄 Pronouns: she/her...
-
-
-
- 
 
  
   ***
@@ -114,8 +107,11 @@
   <a href="https://www.linkedin.com/in/ias-cristina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
- 
+
+   <div align="center">   
+
 📫 How to contact me: <a href ="mailto:iaasmimcristinaa@gmail.com">Email</a>   || <a href="https://www.linkedin.com/in/ias-cristina" target="_blank">Linkedin</a> 
+</div>
 
 
  ![banners-gihub-final](https://user-images.githubusercontent.com/100351576/198038339-d9340ff7-a650-4065-ac79-4a22b4f64f2b.gif)
