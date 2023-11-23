@@ -32,7 +32,7 @@
 
 ---
 
-<h3 align="center"> Technologies I've Recently Worked With </h3>
+<h3 align="center"> Technologies I've Recently Used </h3>
  
 <p align="left">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
