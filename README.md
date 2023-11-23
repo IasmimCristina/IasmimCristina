@@ -14,11 +14,38 @@
 
 
 <h2 align="center"> ❤️ About Me 💙 <h2>
-
   
 - I am someone who studies Front End development... 🖥️
 - Currently, I am a Junior Front End Developer... ☀️
 - I am interested in agile methodologies, JS/React, SEO techniques, TailwindCss, NodeJs, NextJS, and TypeScript... 💨
+
+<h2 align="center"> Professional Experience 🚀 <h2>
+
+#### Compasso UOL — August to December 2022
+- 🕒 4 months of study internship using SCRUM methodology and individual project development in React TS.
+
+#### Admint — August to October 2023
+- 🕒 2 months as a Junior Frontend Developer.
+- 👨‍💻 Utilized Framework7 and JavaScript to streamline sales, manage clients, and generate invoices.
+- 👥 Worked within a team of 5 people.
+
+
+
+### Technologies I Work With
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+</p>
+
+
 
 ## 🛠 Skills ⭐
 
