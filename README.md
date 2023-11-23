@@ -47,8 +47,8 @@
 </p>
 
 
+<h3 align="center"> 🛠 Skills ⭐ </h3>
 
-## 🛠 Skills ⭐
 
 - Experience in Front End Development with React and NextJs. 👥
 - Experience in applying agile methodologies. 💨
@@ -89,7 +89,7 @@
 
 ***
 
-<h2 align="center"> Other... 👀 </h2>
+<h3 align="center"> Other... 👀 </h3>
 
 - 👩‍💻 Currently seeking new job opportunities!
 - 🧠 Engaged in learning Next.JS development with React JS...
@@ -100,7 +100,7 @@
   
 
 
-  <h2 align= "center"> 🔗 Links </h2>
+  <h3 align= "center"> 🔗 Links </h3>
   
   <div align="center">   
   <a href = "mailto:iaasmimcristinaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
