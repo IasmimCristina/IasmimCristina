@@ -1,7 +1,6 @@
 
 
-![banners-ola-mundo](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/3a7d00da-aa18-4b03-9349-88da3edc1cae)
-
+![hello_world](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/24a5db13-0f2d-4b6d-a0f5-94fe3485e5ed)
 
 
 
@@ -77,14 +76,12 @@
 
 <h2 align="center">Skill Level 🖥️</h2>
 
-  
-![banners-gihub-react-next](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/ef0af2d9-b024-40ad-a30c-fca21ce10dd3)
-
-![banners-gihub-js-ts](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/3899ce86-f18a-4f1a-af1b-c2d695eb420d)
+  ![technologies_next_react](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/dc31294e-5c6d-458e-9de8-cfe97ff8c7c3)
 
 
-![banners-gihub-sass-html](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/e8a47f37-e22a-46ac-bdea-dea63371e2cc)
+![technologies_js_ts](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/108765b5-3e3a-4c7b-9463-9823a327fb20)
 
+![technologies_html_scss](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/1654f7b6-f5bb-43cd-a787-34069c533387)
 
 
 ***
