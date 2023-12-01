@@ -48,13 +48,17 @@
 
 <h3 align="center"> 🛠 Skills ⭐ </h3>
 
-![banner_technologies](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/e38bf617-2839-40e1-9d27-fa630410603e)
-
+  ![github_info03](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/ed1aaa12-2580-4d3d-aa41-5ac6537e577b)
 
 - Experience in Front End Development with React and NextJs. 👥
 - Experience in applying agile methodologies. 💨
 - Skilled in using technologies like JS/TypeScript, Sass, HTML/CSS, and ReactJs. 🖥️
 - Proficient in Canva for graphic designing. 🖌️
+
+
+![banner_technologies](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/e38bf617-2839-40e1-9d27-fa630410603e)
+
+
 
 
 
@@ -75,7 +79,6 @@
   
 
 
-  ![github_info03](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/ed1aaa12-2580-4d3d-aa41-5ac6537e577b)
 
 
 ***
