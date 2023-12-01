@@ -75,9 +75,6 @@
   
 
 
-
-<h2 align="center">Skill Level 🖥️</h2>
-
   ![github_info03](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/ed1aaa12-2580-4d3d-aa41-5ac6537e577b)
 
 
