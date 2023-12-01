@@ -1,22 +1,22 @@
 
 
-![hello_world](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/24a5db13-0f2d-4b6d-a0f5-94fe3485e5ed)
+
+![github_info01](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/7a9d9faf-8486-492f-8473-4bade82e024e)
 
 
 
-***
-
-<h1 align="center">✨I'm Iasmim Cristina!✨</h1>
+<h2 align="center">  More Info  </h2>
 
 
-![banners-gihub-inicial](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/3f7430cc-e889-43d5-83e1-b25870a0b0bc)
+![github_info02](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/043c7938-d9a5-47de-b7da-28912efecc88)
 
 
-<h2 align="center"> ❤️ About Me 💙 </h2>
   
 - I'm passionate about Front End development and continuously learning and growing in this field. 🖥️
 - Currently, I hold a role as a Junior Front End Developer, where I'm honing my skills and gaining hands-on experience. ☀️
 - My interests revolve around agile methodologies, JS/React, SEO techniques, TailwindCss, NodeJs, NextJS, and TypeScript. 💨
+
+![banner_initial](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/c18f234b-d222-4d94-87af-c7525888fe5f)
 
 ---
 
@@ -48,6 +48,8 @@
 
 <h3 align="center"> 🛠 Skills ⭐ </h3>
 
+![banner_technologies](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/e38bf617-2839-40e1-9d27-fa630410603e)
+
 
 - Experience in Front End Development with React and NextJs. 👥
 - Experience in applying agile methodologies. 💨
@@ -55,18 +57,18 @@
 - Proficient in Canva for graphic designing. 🖌️
 
 
-  
-![banners-technologies](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/0e75bd50-ea3d-4028-95fe-5ce252f3e1c6)
+
+
 
 
   <div align="center">
     
    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IasmimCristina&layout=donut&theme=moltack" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IasmimCristina&layout=donut&theme=dark" />
 </a> 
    <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IasmimCristina&show_icons=true&theme=moltack" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IasmimCristina&show_icons=true&theme=dark" />
 </a>
   </div> 
   </div>
@@ -76,12 +78,7 @@
 
 <h2 align="center">Skill Level 🖥️</h2>
 
-  ![technologies_next_react](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/dc31294e-5c6d-458e-9de8-cfe97ff8c7c3)
-
-
-![technologies_js_ts](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/108765b5-3e3a-4c7b-9463-9823a327fb20)
-
-![technologies_html_scss](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/1654f7b6-f5bb-43cd-a787-34069c533387)
+  ![github_info03](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/ed1aaa12-2580-4d3d-aa41-5ac6537e577b)
 
 
 ***
@@ -95,6 +92,7 @@
  
   ***
   
+![hello_world](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/fde1ea36-58f3-4e8c-91e8-b0d096c5c958)
 
 
   <h3 align= "center"> 🔗 Links </h3>
@@ -111,8 +109,8 @@
 </div>
 
 
- ![banners-gihub-final](https://user-images.githubusercontent.com/100351576/198038339-d9340ff7-a650-4065-ac79-4a22b4f64f2b.gif)
 
+![banner_final](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/e53a8ab2-0d0d-41c6-a820-347bf1cfd179)
 
 
 
