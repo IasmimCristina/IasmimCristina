@@ -8,7 +8,8 @@
 <h2 align="center">  More Info  </h2>
 
 
-![github_info02](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/043c7938-d9a5-47de-b7da-28912efecc88)
+![github_info_about_me](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/d7651982-1ca2-4e39-b7a5-48f009968ddd)
+
 
 
   
