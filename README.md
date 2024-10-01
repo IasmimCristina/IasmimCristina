@@ -1,14 +1,14 @@
 
 
 
-![github_info01](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/7a9d9faf-8486-492f-8473-4bade82e024e)
+![Image with the text: I'm Iasmim, a junior frontend developer](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/7a9d9faf-8486-492f-8473-4bade82e024e)
 
 
 
 <h2 align="center">  More Info  </h2>
 
 
-![github_info_about_me](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/d7651982-1ca2-4e39-b7a5-48f009968ddd)
+![Image info about me](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/d7651982-1ca2-4e39-b7a5-48f009968ddd)
 
 
 
@@ -17,7 +17,7 @@
 - Currently, I hold a role as a Junior Front End Developer, where I'm honing my skills and gaining hands-on experience. ☀️
 - My interests revolve around agile methodologies, JS/React, SEO techniques, TailwindCss, NodeJs, NextJS, and TypeScript. 💨
 
-![banner_initial](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/c18f234b-d222-4d94-87af-c7525888fe5f)
+![Styled Github logo](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/c18f234b-d222-4d94-87af-c7525888fe5f)
 
 ---
 
@@ -49,7 +49,7 @@
 
 <h3 align="center"> 🛠 Skills ⭐ </h3>
 
-  ![github_info03](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/ed1aaa12-2580-4d3d-aa41-5ac6537e577b)
+  ![Skills level image](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/ed1aaa12-2580-4d3d-aa41-5ac6537e577b)
 
 - Experience in Front End Development with React and NextJs. 👥
 - Experience in applying agile methodologies. 💨
@@ -57,7 +57,7 @@
 - Proficient in Canva for graphic designing. 🖌️
 
 
-![banner_technologies](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/e38bf617-2839-40e1-9d27-fa630410603e)
+![Image with the technologies I work with](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/e38bf617-2839-40e1-9d27-fa630410603e)
 
 
 
@@ -86,7 +86,7 @@
 
 <h3 align="center"> Other... 👀 </h3>
 
-- 👩‍💻 Currently seeking new job opportunities!
+- 👩‍💻 Currently working as a junior front-end dev!
 - 🧠 Engaged in learning Next.JS development with React JS...
 - 😄 Pronouns: she/her...
 
@@ -111,7 +111,7 @@
 
 
 
-![banner_final](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/e53a8ab2-0d0d-41c6-a820-347bf1cfd179)
+![Styled Github goodbye logo](https://github.com/IasmimCristina/IasmimCristina/assets/100351576/e53a8ab2-0d0d-41c6-a820-347bf1cfd179)
 
 
 
