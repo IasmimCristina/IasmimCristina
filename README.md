@@ -45,22 +45,20 @@
 - 👥 Working with various tools and languages within teams of various sizes. Different technologies were used such as Ruby on Rails and Next.js with TypeScript to develop and maintain applications.
 
 
-<h3 align="left"> About me </h3>
+<h3 align="left"> About me: </h3>
 
 
-- Experience in Front End Development with React and NextJs. 👥
-- Experience in applying agile methodologies. 💨
-- Skilled in using technologies like JS/TypeScript, Sass, HTML/CSS, and ReactJs. 🖥️
-- Proficient in Canva for graphic designing. 🖌️
+- Experience with Front End Development with React and NextJs. 👥
+- Experience with applying agile methodologies. 💨
+- Skilled with using technologies like JS/TypeScript, Sass, HTML/CSS, and ReactJs. 🖥️
+- Proficient with Canva for graphic designing. 🖌️
 - My interests revolve around agile methodologies, JS/React, Ruby on Rails, SEO techniques, TailwindCss, NodeJs, NextJS, and TypeScript. 💨
 
 
 
 
 
-
-
-  <h3 align= "center"> 📫 How to contact me: </h3>
+<h3 align= "center"> 📫 How to contact me: </h3>
   
   <div align="center">   
   <a href = "mailto:iaasmimcristinaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
