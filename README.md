@@ -31,12 +31,6 @@
 
 
 
-<div align="center" display="flex">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IasmimCristina&theme=2077" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IasmimCristina&theme=2077" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IasmimCristina&theme=2077" />
-</div>
-
 
 <h3 align="left"> Currently working at... </h3>
 
