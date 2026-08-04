@@ -47,13 +47,6 @@
 <h3 align="left"> About me: </h3>
 
 
-- Experience with Front End Development with React and NextJs. 👥
-- Experience with applying agile methodologies. 💨
-- Skilled with using technologies like JS/TypeScript, Sass, HTML/CSS, and ReactJs. 🖥️
-- Proficient with Canva for graphic designing. 🖌️
-- My interests revolve around agile methodologies, JS/React, Ruby on Rails, SEO techniques, TailwindCss, NodeJs, NextJS, and TypeScript. 💨
-
-
 
 
 
