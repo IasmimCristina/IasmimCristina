@@ -44,8 +44,6 @@
 - 👥 Working with various tools and languages within teams of various sizes. Different technologies were used such as Ruby on Rails and Next.js with TypeScript to develop and maintain applications.
 
 
-<h3 align="left"> About me: </h3>
-
 
 
 
